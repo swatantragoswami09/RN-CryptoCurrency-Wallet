@@ -81,7 +81,7 @@ const Home = ({ navigation }) => {
       );
     };
     return (
-      <View style={{ width: "100%", height: 291, ...styles.shadow }}>
+      <View style={{ width: "100%", height: 290, ...styles.shadow }}>
         <ImageBackground
           source={images.banner}
           resizeMode="cover"
