@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* CryptocurrencyAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* CryptocurrencyAppTests.m */; };
+		00E356F31AD99517003FC87E /* SimpleCryptoWalletTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SimpleCryptoWalletTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
@@ -16,29 +16,29 @@
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* CryptocurrencyAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* CryptocurrencyAppTests.m */; };
+		2DCD954D1E0B4F2C00145EB5 /* SimpleCryptoWalletTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SimpleCryptoWalletTests.m */; };
 		2EF14715260E4A91A391602E /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A1DA92B711774990A7F7DCB7 /* Roboto-Black.ttf */; };
 		33067FD4183349148554C707 /* Roboto-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 78F736F9D34F42B3B89DA955 /* Roboto-BlackItalic.ttf */; };
 		3B27C46DE51C49AA80F184C8 /* RobotoCondensed-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28519B831ECD4F319BCBCEBA /* RobotoCondensed-Regular.ttf */; };
 		3F6AEC2D41294C83A6E43A57 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB709C9F1D1F48779817D2F8 /* Roboto-Regular.ttf */; };
 		40C14406C8BF488597CFD89B /* RobotoCondensed-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 96D4A84743394A41B6D62AFB /* RobotoCondensed-Italic.ttf */; };
-		44D5B7CA00285D59C4979497 /* libPods-CryptocurrencyApp-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E747D19A5D32209A0DAD2351 /* libPods-CryptocurrencyApp-tvOS.a */; };
+		44D5B7CA00285D59C4979497 /* libPods-SimpleCryptoWallet-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E747D19A5D32209A0DAD2351 /* libPods-SimpleCryptoWallet-tvOS.a */; };
 		4DB7C966892F48BFBD5AABB1 /* Roboto-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 37098DFAE39D43F890E4BD48 /* Roboto-LightItalic.ttf */; };
 		51796180171642D993DF3128 /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EDE1F5E78D4C44FCAA2C2257 /* Roboto-Bold.ttf */; };
 		56A002065C1F43D3BED70995 /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D1248A46985541418332E49A /* Roboto-Thin.ttf */; };
 		699C6209E6BF4AFC8539BDB2 /* Roboto-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 35F7C4D72F3C4E39844CB8A4 /* Roboto-BoldItalic.ttf */; };
-		6EEAFE8E60A97EA36A515908 /* libPods-CryptocurrencyApp-CryptocurrencyAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E48D8E23EED077B49AD43257 /* libPods-CryptocurrencyApp-CryptocurrencyAppTests.a */; };
+		6EEAFE8E60A97EA36A515908 /* libPods-SimpleCryptoWallet-SimpleCryptoWalletTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E48D8E23EED077B49AD43257 /* libPods-SimpleCryptoWallet-SimpleCryptoWalletTests.a */; };
 		76D78C3C8C65458085BCF32C /* RobotoCondensed-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 49656D36B5934EDA909D6D53 /* RobotoCondensed-LightItalic.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		8578CD76F26042AEA26556B7 /* RobotoCondensed-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E1DBE164A4814B75A835E1FB /* RobotoCondensed-BoldItalic.ttf */; };
 		8D07340E09324714B854AE43 /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9841F7EEAA6B4E419E8D5C5F /* Roboto-MediumItalic.ttf */; };
-		95DB5998BF63393B8F763ADD /* libPods-CryptocurrencyApp-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F121E3F07EBC2C090B38C46 /* libPods-CryptocurrencyApp-tvOSTests.a */; };
+		95DB5998BF63393B8F763ADD /* libPods-SimpleCryptoWallet-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F121E3F07EBC2C090B38C46 /* libPods-SimpleCryptoWallet-tvOSTests.a */; };
 		9925EF4A92094BF88D92331D /* RobotoCondensed-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9E2A2D5372044ECEAFE9A81C /* RobotoCondensed-Light.ttf */; };
 		AEB7D2080C6C4B4F98087361 /* Roboto-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C9CBAB7D9DE140928AF71CFF /* Roboto-ThinItalic.ttf */; };
 		BF592486270C9A52006827A3 /* libswiftWebKit.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = BF592485270C9A51006827A3 /* libswiftWebKit.tbd */; };
 		C58C623B22E941C4B006FAAD /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6500BEC5DEB64FD99E4D9058 /* Roboto-Medium.ttf */; };
 		F417509EE84647938CC486FD /* RobotoCondensed-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5A2E66CAF1AB4AB987AC4905 /* RobotoCondensed-Bold.ttf */; };
-		F5DA7158E41AD1AA47FFD6A1 /* libPods-CryptocurrencyApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B5D1B258FCFE015F3427996 /* libPods-CryptocurrencyApp.a */; };
+		F5DA7158E41AD1AA47FFD6A1 /* libPods-SimpleCryptoWallet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B5D1B258FCFE015F3427996 /* libPods-SimpleCryptoWallet.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,64 +47,64 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = CryptocurrencyApp;
+			remoteInfo = SimpleCryptoWallet;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "CryptocurrencyApp-tvOS";
+			remoteInfo = "SimpleCryptoWallet-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* CryptocurrencyAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CryptocurrencyAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* SimpleCryptoWalletTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpleCryptoWalletTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* CryptocurrencyAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CryptocurrencyAppTests.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* SimpleCryptoWalletTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleCryptoWalletTests.m; sourceTree = "<group>"; };
 		030C5E7BA5EE496FA4F76BC7 /* Roboto-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Light.ttf"; path = "../assets/fonts/Roboto-Light.ttf"; sourceTree = "<group>"; };
-		0ADF82F205EEB5FC0818FD0D /* Pods-CryptocurrencyApp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CryptocurrencyApp-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-CryptocurrencyApp-tvOSTests/Pods-CryptocurrencyApp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* CryptocurrencyApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CryptocurrencyApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = CryptocurrencyApp/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = CryptocurrencyApp/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = CryptocurrencyApp/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = CryptocurrencyApp/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = CryptocurrencyApp/main.m; sourceTree = "<group>"; };
+		0ADF82F205EEB5FC0818FD0D /* Pods-SimpleCryptoWallet-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleCryptoWallet-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-SimpleCryptoWallet-tvOSTests/Pods-SimpleCryptoWallet-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* SimpleCryptoWallet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleCryptoWallet.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = SimpleCryptoWallet/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = SimpleCryptoWallet/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = SimpleCryptoWallet/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = SimpleCryptoWallet/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = SimpleCryptoWallet/main.m; sourceTree = "<group>"; };
 		28519B831ECD4F319BCBCEBA /* RobotoCondensed-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoCondensed-Regular.ttf"; path = "../assets/fonts/RobotoCondensed-Regular.ttf"; sourceTree = "<group>"; };
-		2BE6A9DDB4D0EE368B69CEFE /* Pods-CryptocurrencyApp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CryptocurrencyApp-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-CryptocurrencyApp-tvOS/Pods-CryptocurrencyApp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		2CDC8FC456E136E7420BF5BD /* Pods-CryptocurrencyApp-CryptocurrencyAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CryptocurrencyApp-CryptocurrencyAppTests.debug.xcconfig"; path = "Target Support Files/Pods-CryptocurrencyApp-CryptocurrencyAppTests/Pods-CryptocurrencyApp-CryptocurrencyAppTests.debug.xcconfig"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* CryptocurrencyApp-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CryptocurrencyApp-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* CryptocurrencyApp-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CryptocurrencyApp-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BE6A9DDB4D0EE368B69CEFE /* Pods-SimpleCryptoWallet-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleCryptoWallet-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-SimpleCryptoWallet-tvOS/Pods-SimpleCryptoWallet-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		2CDC8FC456E136E7420BF5BD /* Pods-SimpleCryptoWallet-SimpleCryptoWalletTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleCryptoWallet-SimpleCryptoWalletTests.debug.xcconfig"; path = "Target Support Files/Pods-SimpleCryptoWallet-SimpleCryptoWalletTests/Pods-SimpleCryptoWallet-SimpleCryptoWalletTests.debug.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* SimpleCryptoWallet-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SimpleCryptoWallet-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* SimpleCryptoWallet-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SimpleCryptoWallet-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		35F7C4D72F3C4E39844CB8A4 /* Roboto-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-BoldItalic.ttf"; path = "../assets/fonts/Roboto-BoldItalic.ttf"; sourceTree = "<group>"; };
 		37098DFAE39D43F890E4BD48 /* Roboto-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-LightItalic.ttf"; path = "../assets/fonts/Roboto-LightItalic.ttf"; sourceTree = "<group>"; };
-		39AAA63D6C46429D61B53B08 /* Pods-CryptocurrencyApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CryptocurrencyApp-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-CryptocurrencyApp-tvOSTests/Pods-CryptocurrencyApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		39AAA63D6C46429D61B53B08 /* Pods-SimpleCryptoWallet-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleCryptoWallet-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-SimpleCryptoWallet-tvOSTests/Pods-SimpleCryptoWallet-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		49656D36B5934EDA909D6D53 /* RobotoCondensed-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoCondensed-LightItalic.ttf"; path = "../assets/fonts/RobotoCondensed-LightItalic.ttf"; sourceTree = "<group>"; };
 		50D84B8BA25C4914BB31C8D1 /* Roboto-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Italic.ttf"; path = "../assets/fonts/Roboto-Italic.ttf"; sourceTree = "<group>"; };
 		5A2E66CAF1AB4AB987AC4905 /* RobotoCondensed-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoCondensed-Bold.ttf"; path = "../assets/fonts/RobotoCondensed-Bold.ttf"; sourceTree = "<group>"; };
 		6500BEC5DEB64FD99E4D9058 /* Roboto-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Medium.ttf"; path = "../assets/fonts/Roboto-Medium.ttf"; sourceTree = "<group>"; };
-		67D1BE72E399FDC720C5C380 /* Pods-CryptocurrencyApp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CryptocurrencyApp-tvOS.release.xcconfig"; path = "Target Support Files/Pods-CryptocurrencyApp-tvOS/Pods-CryptocurrencyApp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		67D1BE72E399FDC720C5C380 /* Pods-SimpleCryptoWallet-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleCryptoWallet-tvOS.release.xcconfig"; path = "Target Support Files/Pods-SimpleCryptoWallet-tvOS/Pods-SimpleCryptoWallet-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		78F736F9D34F42B3B89DA955 /* Roboto-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-BlackItalic.ttf"; path = "../assets/fonts/Roboto-BlackItalic.ttf"; sourceTree = "<group>"; };
-		7F121E3F07EBC2C090B38C46 /* libPods-CryptocurrencyApp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CryptocurrencyApp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = CryptocurrencyApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		8B5D1B258FCFE015F3427996 /* libPods-CryptocurrencyApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CryptocurrencyApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7F121E3F07EBC2C090B38C46 /* libPods-SimpleCryptoWallet-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SimpleCryptoWallet-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = SimpleCryptoWallet/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8B5D1B258FCFE015F3427996 /* libPods-SimpleCryptoWallet.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SimpleCryptoWallet.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		96D4A84743394A41B6D62AFB /* RobotoCondensed-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoCondensed-Italic.ttf"; path = "../assets/fonts/RobotoCondensed-Italic.ttf"; sourceTree = "<group>"; };
 		9841F7EEAA6B4E419E8D5C5F /* Roboto-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-MediumItalic.ttf"; path = "../assets/fonts/Roboto-MediumItalic.ttf"; sourceTree = "<group>"; };
 		9E2A2D5372044ECEAFE9A81C /* RobotoCondensed-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoCondensed-Light.ttf"; path = "../assets/fonts/RobotoCondensed-Light.ttf"; sourceTree = "<group>"; };
 		A1DA92B711774990A7F7DCB7 /* Roboto-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Black.ttf"; path = "../assets/fonts/Roboto-Black.ttf"; sourceTree = "<group>"; };
-		B7AD69B9C440D05705516A56 /* Pods-CryptocurrencyApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CryptocurrencyApp.release.xcconfig"; path = "Target Support Files/Pods-CryptocurrencyApp/Pods-CryptocurrencyApp.release.xcconfig"; sourceTree = "<group>"; };
+		B7AD69B9C440D05705516A56 /* Pods-SimpleCryptoWallet.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleCryptoWallet.release.xcconfig"; path = "Target Support Files/Pods-SimpleCryptoWallet/Pods-SimpleCryptoWallet.release.xcconfig"; sourceTree = "<group>"; };
 		BF592485270C9A51006827A3 /* libswiftWebKit.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libswiftWebKit.tbd; path = usr/lib/swift/libswiftWebKit.tbd; sourceTree = SDKROOT; };
 		C9CBAB7D9DE140928AF71CFF /* Roboto-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-ThinItalic.ttf"; path = "../assets/fonts/Roboto-ThinItalic.ttf"; sourceTree = "<group>"; };
 		D1248A46985541418332E49A /* Roboto-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Thin.ttf"; path = "../assets/fonts/Roboto-Thin.ttf"; sourceTree = "<group>"; };
 		E1DBE164A4814B75A835E1FB /* RobotoCondensed-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoCondensed-BoldItalic.ttf"; path = "../assets/fonts/RobotoCondensed-BoldItalic.ttf"; sourceTree = "<group>"; };
-		E48D8E23EED077B49AD43257 /* libPods-CryptocurrencyApp-CryptocurrencyAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CryptocurrencyApp-CryptocurrencyAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E747D19A5D32209A0DAD2351 /* libPods-CryptocurrencyApp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CryptocurrencyApp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E48D8E23EED077B49AD43257 /* libPods-SimpleCryptoWallet-SimpleCryptoWalletTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SimpleCryptoWallet-SimpleCryptoWalletTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E747D19A5D32209A0DAD2351 /* libPods-SimpleCryptoWallet-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SimpleCryptoWallet-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		EDE1F5E78D4C44FCAA2C2257 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Bold.ttf"; path = "../assets/fonts/Roboto-Bold.ttf"; sourceTree = "<group>"; };
 		FB709C9F1D1F48779817D2F8 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Regular.ttf"; path = "../assets/fonts/Roboto-Regular.ttf"; sourceTree = "<group>"; };
-		FC02FD7C2AA58091C46880DC /* Pods-CryptocurrencyApp-CryptocurrencyAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CryptocurrencyApp-CryptocurrencyAppTests.release.xcconfig"; path = "Target Support Files/Pods-CryptocurrencyApp-CryptocurrencyAppTests/Pods-CryptocurrencyApp-CryptocurrencyAppTests.release.xcconfig"; sourceTree = "<group>"; };
-		FFB92A94A20DE7BAFFCEEA52 /* Pods-CryptocurrencyApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CryptocurrencyApp.debug.xcconfig"; path = "Target Support Files/Pods-CryptocurrencyApp/Pods-CryptocurrencyApp.debug.xcconfig"; sourceTree = "<group>"; };
+		FC02FD7C2AA58091C46880DC /* Pods-SimpleCryptoWallet-SimpleCryptoWalletTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleCryptoWallet-SimpleCryptoWalletTests.release.xcconfig"; path = "Target Support Files/Pods-SimpleCryptoWallet-SimpleCryptoWalletTests/Pods-SimpleCryptoWallet-SimpleCryptoWalletTests.release.xcconfig"; sourceTree = "<group>"; };
+		FFB92A94A20DE7BAFFCEEA52 /* Pods-SimpleCryptoWallet.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SimpleCryptoWallet.debug.xcconfig"; path = "Target Support Files/Pods-SimpleCryptoWallet/Pods-SimpleCryptoWallet.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,7 +112,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6EEAFE8E60A97EA36A515908 /* libPods-CryptocurrencyApp-CryptocurrencyAppTests.a in Frameworks */,
+				6EEAFE8E60A97EA36A515908 /* libPods-SimpleCryptoWallet-SimpleCryptoWalletTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -121,7 +121,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF592486270C9A52006827A3 /* libswiftWebKit.tbd in Frameworks */,
-				F5DA7158E41AD1AA47FFD6A1 /* libPods-CryptocurrencyApp.a in Frameworks */,
+				F5DA7158E41AD1AA47FFD6A1 /* libPods-SimpleCryptoWallet.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -129,7 +129,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				44D5B7CA00285D59C4979497 /* libPods-CryptocurrencyApp-tvOS.a in Frameworks */,
+				44D5B7CA00285D59C4979497 /* libPods-SimpleCryptoWallet-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,20 +137,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				95DB5998BF63393B8F763ADD /* libPods-CryptocurrencyApp-tvOSTests.a in Frameworks */,
+				95DB5998BF63393B8F763ADD /* libPods-SimpleCryptoWallet-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* CryptocurrencyAppTests */ = {
+		00E356EF1AD99517003FC87E /* SimpleCryptoWalletTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* CryptocurrencyAppTests.m */,
+				00E356F21AD99517003FC87E /* SimpleCryptoWalletTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = CryptocurrencyAppTests;
+			path = SimpleCryptoWalletTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -161,7 +161,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* CryptocurrencyApp */ = {
+		13B07FAE1A68108700A75B9A /* SimpleCryptoWallet */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -172,20 +172,20 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = CryptocurrencyApp;
+			name = SimpleCryptoWallet;
 			sourceTree = "<group>";
 		};
 		29DA6CE97D1A45365075ACEF /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				FFB92A94A20DE7BAFFCEEA52 /* Pods-CryptocurrencyApp.debug.xcconfig */,
-				B7AD69B9C440D05705516A56 /* Pods-CryptocurrencyApp.release.xcconfig */,
-				2CDC8FC456E136E7420BF5BD /* Pods-CryptocurrencyApp-CryptocurrencyAppTests.debug.xcconfig */,
-				FC02FD7C2AA58091C46880DC /* Pods-CryptocurrencyApp-CryptocurrencyAppTests.release.xcconfig */,
-				2BE6A9DDB4D0EE368B69CEFE /* Pods-CryptocurrencyApp-tvOS.debug.xcconfig */,
-				67D1BE72E399FDC720C5C380 /* Pods-CryptocurrencyApp-tvOS.release.xcconfig */,
-				0ADF82F205EEB5FC0818FD0D /* Pods-CryptocurrencyApp-tvOSTests.debug.xcconfig */,
-				39AAA63D6C46429D61B53B08 /* Pods-CryptocurrencyApp-tvOSTests.release.xcconfig */,
+				FFB92A94A20DE7BAFFCEEA52 /* Pods-SimpleCryptoWallet.debug.xcconfig */,
+				B7AD69B9C440D05705516A56 /* Pods-SimpleCryptoWallet.release.xcconfig */,
+				2CDC8FC456E136E7420BF5BD /* Pods-SimpleCryptoWallet-SimpleCryptoWalletTests.debug.xcconfig */,
+				FC02FD7C2AA58091C46880DC /* Pods-SimpleCryptoWallet-SimpleCryptoWalletTests.release.xcconfig */,
+				2BE6A9DDB4D0EE368B69CEFE /* Pods-SimpleCryptoWallet-tvOS.debug.xcconfig */,
+				67D1BE72E399FDC720C5C380 /* Pods-SimpleCryptoWallet-tvOS.release.xcconfig */,
+				0ADF82F205EEB5FC0818FD0D /* Pods-SimpleCryptoWallet-tvOSTests.debug.xcconfig */,
+				39AAA63D6C46429D61B53B08 /* Pods-SimpleCryptoWallet-tvOSTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -196,10 +196,10 @@
 				BF592485270C9A51006827A3 /* libswiftWebKit.tbd */,
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				8B5D1B258FCFE015F3427996 /* libPods-CryptocurrencyApp.a */,
-				E48D8E23EED077B49AD43257 /* libPods-CryptocurrencyApp-CryptocurrencyAppTests.a */,
-				E747D19A5D32209A0DAD2351 /* libPods-CryptocurrencyApp-tvOS.a */,
-				7F121E3F07EBC2C090B38C46 /* libPods-CryptocurrencyApp-tvOSTests.a */,
+				8B5D1B258FCFE015F3427996 /* libPods-SimpleCryptoWallet.a */,
+				E48D8E23EED077B49AD43257 /* libPods-SimpleCryptoWallet-SimpleCryptoWalletTests.a */,
+				E747D19A5D32209A0DAD2351 /* libPods-SimpleCryptoWallet-tvOS.a */,
+				7F121E3F07EBC2C090B38C46 /* libPods-SimpleCryptoWallet-tvOSTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -239,9 +239,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* CryptocurrencyApp */,
+				13B07FAE1A68108700A75B9A /* SimpleCryptoWallet */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* CryptocurrencyAppTests */,
+				00E356EF1AD99517003FC87E /* SimpleCryptoWalletTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				29DA6CE97D1A45365075ACEF /* Pods */,
@@ -255,10 +255,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* CryptocurrencyApp.app */,
-				00E356EE1AD99517003FC87E /* CryptocurrencyAppTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* CryptocurrencyApp-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* CryptocurrencyApp-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* SimpleCryptoWallet.app */,
+				00E356EE1AD99517003FC87E /* SimpleCryptoWalletTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* SimpleCryptoWallet-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* SimpleCryptoWallet-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -266,9 +266,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* CryptocurrencyAppTests */ = {
+		00E356ED1AD99517003FC87E /* SimpleCryptoWalletTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "CryptocurrencyAppTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SimpleCryptoWalletTests" */;
 			buildPhases = (
 				AB8BA712A9E3C8299FEDF685 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -282,14 +282,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = CryptocurrencyAppTests;
-			productName = CryptocurrencyAppTests;
-			productReference = 00E356EE1AD99517003FC87E /* CryptocurrencyAppTests.xctest */;
+			name = SimpleCryptoWalletTests;
+			productName = SimpleCryptoWalletTests;
+			productReference = 00E356EE1AD99517003FC87E /* SimpleCryptoWalletTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* CryptocurrencyApp */ = {
+		13B07F861A680F5B00A75B9A /* SimpleCryptoWallet */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "CryptocurrencyApp" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SimpleCryptoWallet" */;
 			buildPhases = (
 				56BB0964D66ACA81CB329058 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -304,14 +304,14 @@
 			);
 			dependencies = (
 			);
-			name = CryptocurrencyApp;
-			productName = CryptocurrencyApp;
-			productReference = 13B07F961A680F5B00A75B9A /* CryptocurrencyApp.app */;
+			name = SimpleCryptoWallet;
+			productName = SimpleCryptoWallet;
+			productReference = 13B07F961A680F5B00A75B9A /* SimpleCryptoWallet.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* CryptocurrencyApp-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* SimpleCryptoWallet-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "CryptocurrencyApp-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SimpleCryptoWallet-tvOS" */;
 			buildPhases = (
 				AC5C4317885471049C253EC5 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -324,14 +324,14 @@
 			);
 			dependencies = (
 			);
-			name = "CryptocurrencyApp-tvOS";
-			productName = "CryptocurrencyApp-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* CryptocurrencyApp-tvOS.app */;
+			name = "SimpleCryptoWallet-tvOS";
+			productName = "SimpleCryptoWallet-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* SimpleCryptoWallet-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* CryptocurrencyApp-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* SimpleCryptoWallet-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "CryptocurrencyApp-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SimpleCryptoWallet-tvOSTests" */;
 			buildPhases = (
 				FB35D294DF0A3DECEA5AB016 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -343,9 +343,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "CryptocurrencyApp-tvOSTests";
-			productName = "CryptocurrencyApp-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* CryptocurrencyApp-tvOSTests.xctest */;
+			name = "SimpleCryptoWallet-tvOSTests";
+			productName = "SimpleCryptoWallet-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* SimpleCryptoWallet-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -374,7 +374,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "CryptocurrencyApp" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SimpleCryptoWallet" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -387,10 +387,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* CryptocurrencyApp */,
-				00E356ED1AD99517003FC87E /* CryptocurrencyAppTests */,
-				2D02E47A1E0B4A5D006451C7 /* CryptocurrencyApp-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* CryptocurrencyApp-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* SimpleCryptoWallet */,
+				00E356ED1AD99517003FC87E /* SimpleCryptoWalletTests */,
+				2D02E47A1E0B4A5D006451C7 /* SimpleCryptoWallet-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* SimpleCryptoWallet-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -482,7 +482,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CryptocurrencyApp-CryptocurrencyAppTests/Pods-CryptocurrencyApp-CryptocurrencyAppTests-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-SimpleCryptoWallet-SimpleCryptoWalletTests/Pods-SimpleCryptoWallet-SimpleCryptoWalletTests-frameworks.sh",
 				"${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL/OpenSSL.framework/OpenSSL",
 			);
 			name = "[CP] Embed Pods Frameworks";
@@ -491,7 +491,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CryptocurrencyApp-CryptocurrencyAppTests/Pods-CryptocurrencyApp-CryptocurrencyAppTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SimpleCryptoWallet-SimpleCryptoWalletTests/Pods-SimpleCryptoWallet-SimpleCryptoWalletTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		56BB0964D66ACA81CB329058 /* [CP] Check Pods Manifest.lock */ = {
@@ -509,7 +509,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-CryptocurrencyApp-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-SimpleCryptoWallet-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -522,7 +522,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CryptocurrencyApp/Pods-CryptocurrencyApp-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-SimpleCryptoWallet/Pods-SimpleCryptoWallet-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -531,7 +531,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CryptocurrencyApp/Pods-CryptocurrencyApp-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SimpleCryptoWallet/Pods-SimpleCryptoWallet-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		AB8BA712A9E3C8299FEDF685 /* [CP] Check Pods Manifest.lock */ = {
@@ -549,7 +549,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-CryptocurrencyApp-CryptocurrencyAppTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-SimpleCryptoWallet-SimpleCryptoWalletTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -571,7 +571,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-CryptocurrencyApp-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-SimpleCryptoWallet-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -584,7 +584,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CryptocurrencyApp/Pods-CryptocurrencyApp-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-SimpleCryptoWallet/Pods-SimpleCryptoWallet-frameworks.sh",
 				"${PODS_XCFRAMEWORKS_BUILD_DIR}/OpenSSL/OpenSSL.framework/OpenSSL",
 			);
 			name = "[CP] Embed Pods Frameworks";
@@ -593,7 +593,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CryptocurrencyApp/Pods-CryptocurrencyApp-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SimpleCryptoWallet/Pods-SimpleCryptoWallet-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		E9E7302C7165BD852410D3F9 /* [CP] Copy Pods Resources */ = {
@@ -602,7 +602,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-CryptocurrencyApp-CryptocurrencyAppTests/Pods-CryptocurrencyApp-CryptocurrencyAppTests-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-SimpleCryptoWallet-SimpleCryptoWalletTests/Pods-SimpleCryptoWallet-SimpleCryptoWalletTests-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -611,7 +611,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-CryptocurrencyApp-CryptocurrencyAppTests/Pods-CryptocurrencyApp-CryptocurrencyAppTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SimpleCryptoWallet-SimpleCryptoWalletTests/Pods-SimpleCryptoWallet-SimpleCryptoWalletTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FB35D294DF0A3DECEA5AB016 /* [CP] Check Pods Manifest.lock */ = {
@@ -629,7 +629,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-CryptocurrencyApp-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-SimpleCryptoWallet-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -681,7 +681,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* CryptocurrencyAppTests.m in Sources */,
+				00E356F31AD99517003FC87E /* SimpleCryptoWalletTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -707,7 +707,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* CryptocurrencyAppTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* SimpleCryptoWalletTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -716,12 +716,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* CryptocurrencyApp */;
+			target = 13B07F861A680F5B00A75B9A /* SimpleCryptoWallet */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* CryptocurrencyApp-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* SimpleCryptoWallet-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -729,14 +729,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2CDC8FC456E136E7420BF5BD /* Pods-CryptocurrencyApp-CryptocurrencyAppTests.debug.xcconfig */;
+			baseConfigurationReference = 2CDC8FC456E136E7420BF5BD /* Pods-SimpleCryptoWallet-SimpleCryptoWalletTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = CryptocurrencyAppTests/Info.plist;
+				INFOPLIST_FILE = SimpleCryptoWalletTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -746,17 +746,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CryptocurrencyApp.app/CryptocurrencyApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SimpleCryptoWallet.app/SimpleCryptoWallet";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FC02FD7C2AA58091C46880DC /* Pods-CryptocurrencyApp-CryptocurrencyAppTests.release.xcconfig */;
+			baseConfigurationReference = FC02FD7C2AA58091C46880DC /* Pods-SimpleCryptoWallet-SimpleCryptoWalletTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = CryptocurrencyAppTests/Info.plist;
+				INFOPLIST_FILE = SimpleCryptoWalletTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -766,19 +766,19 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CryptocurrencyApp.app/CryptocurrencyApp";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SimpleCryptoWallet.app/SimpleCryptoWallet";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FFB92A94A20DE7BAFFCEEA52 /* Pods-CryptocurrencyApp.debug.xcconfig */;
+			baseConfigurationReference = FFB92A94A20DE7BAFFCEEA52 /* Pods-SimpleCryptoWallet.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = CryptocurrencyApp/Info.plist;
+				INFOPLIST_FILE = SimpleCryptoWallet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -790,7 +790,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = CryptocurrencyApp;
+				PRODUCT_NAME = SimpleCryptoWallet;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -799,12 +799,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B7AD69B9C440D05705516A56 /* Pods-CryptocurrencyApp.release.xcconfig */;
+			baseConfigurationReference = B7AD69B9C440D05705516A56 /* Pods-SimpleCryptoWallet.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = CryptocurrencyApp/Info.plist;
+				INFOPLIST_FILE = SimpleCryptoWallet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
@@ -816,7 +816,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = CryptocurrencyApp;
+				PRODUCT_NAME = SimpleCryptoWallet;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -824,7 +824,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2BE6A9DDB4D0EE368B69CEFE /* Pods-CryptocurrencyApp-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 2BE6A9DDB4D0EE368B69CEFE /* Pods-SimpleCryptoWallet-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -835,14 +835,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "CryptocurrencyApp-tvOS/Info.plist";
+				INFOPLIST_FILE = "SimpleCryptoWallet-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.CryptocurrencyApp-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.SimpleCryptoWallet-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -852,7 +852,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 67D1BE72E399FDC720C5C380 /* Pods-CryptocurrencyApp-tvOS.release.xcconfig */;
+			baseConfigurationReference = 67D1BE72E399FDC720C5C380 /* Pods-SimpleCryptoWallet-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -863,14 +863,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "CryptocurrencyApp-tvOS/Info.plist";
+				INFOPLIST_FILE = "SimpleCryptoWallet-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.CryptocurrencyApp-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.SimpleCryptoWallet-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -880,7 +880,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0ADF82F205EEB5FC0818FD0D /* Pods-CryptocurrencyApp-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 0ADF82F205EEB5FC0818FD0D /* Pods-SimpleCryptoWallet-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -890,24 +890,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "CryptocurrencyApp-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "SimpleCryptoWallet-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.CryptocurrencyApp-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.SimpleCryptoWallet-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CryptocurrencyApp-tvOS.app/CryptocurrencyApp-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SimpleCryptoWallet-tvOS.app/SimpleCryptoWallet-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 39AAA63D6C46429D61B53B08 /* Pods-CryptocurrencyApp-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 39AAA63D6C46429D61B53B08 /* Pods-SimpleCryptoWallet-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -917,17 +917,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "CryptocurrencyApp-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "SimpleCryptoWallet-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.CryptocurrencyApp-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.SimpleCryptoWallet-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CryptocurrencyApp-tvOS.app/CryptocurrencyApp-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SimpleCryptoWallet-tvOS.app/SimpleCryptoWallet-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -1048,7 +1048,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "CryptocurrencyAppTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "SimpleCryptoWalletTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -1057,7 +1057,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "CryptocurrencyApp" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "SimpleCryptoWallet" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -1066,7 +1066,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "CryptocurrencyApp-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SimpleCryptoWallet-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -1075,7 +1075,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "CryptocurrencyApp-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "SimpleCryptoWallet-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -1084,7 +1084,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "CryptocurrencyApp" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "SimpleCryptoWallet" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
